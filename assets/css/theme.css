@@ -1539,8 +1539,8 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 50%;
   line-height: 32px;
   text-align: center;
-  background-color: #fff;
-  color: #6C55F9;
+  background-color: #000;
+  color: #ffffff;
 }
 
 
