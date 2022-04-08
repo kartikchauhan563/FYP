@@ -19,9 +19,14 @@ body {
   line-height: 1.5;
   color: #2D2B3A;
 }
-
-
-
+.home-banner{
+  min-height:100%;
+  background:linear-gradient(288deg, rgb(0 0 0 / 52%), rgb(0 0 0 / 43%)), url(../img/heroimage2.jpg);
+  background-size:cover;
+}
+img.imagesizes {
+  width: 70px;
+}
 
 a {
   color: #6C55F9;
